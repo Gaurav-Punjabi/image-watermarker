@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="720" prefWidth="1024" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gp.watermarker.controllers.MainPage">
+   <children>
+      <AnchorPane prefHeight="52.0" prefWidth="1024.0" styleClass="header-wrapper" stylesheets="@../styles.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <Label layoutX="407.0" layoutY="10.0" text="Image Watermarker" textFill="WHITE">
+               <font>
+                  <Font name="Open Sans Regular" size="22.0" />
+               </font>
+            </Label>
+         </children></AnchorPane>
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="720" prefWidth="1024" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gp.watermarker.controllers.MainPage">
+   <children>
+      <AnchorPane prefHeight="52.0" prefWidth="1024.0" styleClass="header-wrapper" stylesheets="@../styles.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+   </children>
+</AnchorPane>
